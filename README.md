@@ -113,6 +113,30 @@ Here are some ideas to get you started:
       </tbody>
     </table>
   </div>
+
+  <h1> :fire: :writing_hand: Some Projects I've Done : </h1>
+  
+  <div align="left">
+    <table>      
+      <tbody>
+        <tr valign="top">
+          <td width="140px" align="center">
+            <span>Cash Register</span><br><br><br>
+            <img height="64px" src="https://cdn-icons-png.flaticon.com/128/1019/1019709.png">(https://tinyurl.com/bdehv3hf)
+          </td>
+          <td width="140px" align="center">
+            <span>Recipe app</span><br><br><br>
+            <img height="64px" src="https://cdn-icons-png.flaticon.com/128/1041/1041373.png">(https://deploy-preview-1--luxury-baklava-cbc2a5.netlify.app/)
+          </td>
+          <td width="140px" align="center">
+            <span><strong>Simple Quiz App</strong>
+            </span><br><br><br>
+            <img height="64px" src="https://cdn-icons-png.flaticon.com/128/3261/3261308.png">(https://deploy-preview-1--glistening-tarsier-6b15bb.netlify.app/)
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
   
   <h1> :fire: :writing_hand: Will like to learn : </h1>
   
