@@ -27,39 +27,39 @@ Here are some ideas to get you started:
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
       i'm Alaric
   </h1>
+  <h4 align="center">A passionate entry level fullstack dev from Cameroon and a digital artist open to learning new things and learning from my mistakes. Open to team work and i'm a good team player not with the best communication skills but good at communication.</h4>
   
 <div align="left">
-  ### Programming Skills
+  <h3 align="left">Programming Skills:</h3>
 
   <table>
     <tbody>
       <tr valign="top">
-        <td width="140px" align="center">
+        <td width="80px" align="center">
           <span>Javascript</span><br><br><br>
           <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png">
         </td>
-         <td width="140px" align="center">
+         <td width="80px" align="center">
           <span>Git</span><br><br><br>
           <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="100" height="100"/>
         </td>
       </tr>
     </tbody>
   </table>
-
-    ### Frontend Skills
+  <h3 align="left">Frontend Skills:</h3>
 
   <table>
     <tbody>
       <tr valign="top">
-        <td width="140px" align="center">
+        <td width="80px" align="center">
           <span>React</span><br><br><br>
           <img height="64px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg">
         </td>
-        <td width="140px" align="center">
+        <td width="80px" align="center">
           <span>HTML5</span><br><br><br>
           <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
         </td>
-        <td width="140px" align="center">
+        <td width="80px" align="center">
           <span><strong>CSS3</strong>
           </span><br><br><br>
           <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
@@ -67,17 +67,16 @@ Here are some ideas to get you started:
       </tr>
     </tbody>
   </table>
-  
-    ### Backend Skills
+  <h3 align="left">Backend Skills:</h3>
 
   <table>
     <tbody>
       <tr valign="top">
-        <td width="140px" align="center">
+        <td width="80px" align="center">
           <span>Node js</span><br><br><br>
           <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="100" height="100"/>
         </td>
-        <td width="140px" align="center">
+        <td width="80px" align="center">
           <span>MySQL</span><br><br><br>
           <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="100" height="100"/>
         </td>
@@ -92,20 +91,20 @@ Here are some ideas to get you started:
     <table>      
       <tbody>
         <tr valign="top">
-          <td width="140px" align="center">
+          <td width="80px" align="center">
             <span>React Native</span><br><br><br>
             <img height="64px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg">
           </td>
-          <td width="140px" align="center">
+          <td width="80px" align="center">
             <span>TypeScript</span><br><br><br>
             <img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon-round.svg">
           </td>
-          <td width="140px" align="center">
+          <td width="80px" align="center">
             <span><strong>Tailwind</strong>
             </span><br><br><br>
             <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
           </td>
-          <td width="140px" align="center">
+          <td width="80px" align="center">
             <span>NextJS</span><br><br><br>
             <img height="64px" src="https://cdn.svgporn.com/logos/nextjs-icon.svg">
           </td>
@@ -120,15 +119,15 @@ Here are some ideas to get you started:
     <table>      
       <tbody>
         <tr valign="top">
-          <td width="140px" align="center">
+          <td width="80px" align="center">
             <span>Cash Register</span><br><br><br>
             <img height="64px" src="https://cdn-icons-png.flaticon.com/128/1019/1019709.png">(https://tinyurl.com/bdehv3hf)
           </td>
-          <td width="140px" align="center">
+          <td width="80px" align="center">
             <span>Recipe app</span><br><br><br>
             <img height="64px" src="https://cdn-icons-png.flaticon.com/128/1041/1041373.png">(https://deploy-preview-1--luxury-baklava-cbc2a5.netlify.app/)
           </td>
-          <td width="140px" align="center">
+          <td width="80px" align="center">
             <span><strong>Simple Quiz App</strong>
             </span><br><br><br>
             <img height="64px" src="https://cdn-icons-png.flaticon.com/128/3261/3261308.png">(https://deploy-preview-1--glistening-tarsier-6b15bb.netlify.app/)
@@ -144,12 +143,12 @@ Here are some ideas to get you started:
     <table>
       <tbody>
         <tr valign="top">
-          <td width="140px" align="center">
+          <td width="80px" align="center">
             <span><strong>Python </strong>
             </span><br><br><br>
             <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
           </td>
-          <td width="140px" align="center">
+          <td width="80px" align="center">
             <span>Veu Js</span><br><br><br>
             <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
           </td>
