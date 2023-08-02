@@ -112,17 +112,29 @@
       <tbody>
         <tr valign="top">
           <td width="80px" align="center">
-            <span>Cash Register</span><br><br><br>
-            <img height="64px" src="https://cdn-icons-png.flaticon.com/128/1019/1019709.png">(https://tinyurl.com/bdehv3hf)
+            <span>Cash Register</span><br><br>
+            <a src="https://kivenalaric.github.io/cash-register/">
+              <img height="64px" src="https://cdn-icons-png.flaticon.com/128/5113/5113045.png">
+            </a>
           </td>
           <td width="80px" align="center">
-            <span>Recipe app</span><br><br><br>
-            <img height="64px" src="https://cdn-icons-png.flaticon.com/128/1041/1041373.png">(https://deploy-preview-1--luxury-baklava-cbc2a5.netlify.app/)
+            <span>Currency Exchange App</span><br><br>
+            <a src="https://currency-exchange-git-feature-exchange-app-kivenalaric.vercel.app/">
+              <img height="64px" src="https://cdn-icons-png.flaticon.com/128/2510/2510667.png">
+            </a>
+          </td>
+          <td width="80px" align="center">
+            <span>Recipe app</span><br><br>
+            <a src="https://deploy-preview-1--luxury-baklava-cbc2a5.netlify.app/">
+              <img height="64px" src="https://cdn-icons-png.flaticon.com/128/1065/1065711.png">
+            </a>
           </td>
           <td width="80px" align="center">
             <span><strong>Simple Quiz App</strong>
-            </span><br><br><br>
-            <img height="64px" src="https://cdn-icons-png.flaticon.com/128/3261/3261308.png">(https://deploy-preview-1--glistening-tarsier-6b15bb.netlify.app/)
+            </span><br><br>
+            <a src="https://deploy-preview-1--glistening-tarsier-6b15bb.netlify.app/">
+              <img height="64px" src="https://cdn-icons-png.flaticon.com/128/3261/3261308.png">
+            </a>
           </td>
         </tr>
       </tbody>
@@ -139,6 +151,11 @@
             <span><strong>Python </strong>
             </span><br><br><br>
             <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+          </td>
+          <td width="80px" align="center">
+            <span><strong>Laravel </strong>
+            </span><br><br><br>
+            <img height="64px" src="https://cdn.svgporn.com/logos/laravel.svg">
           </td>
           <td width="80px" align="center">
             <span>Veu Js</span><br><br><br>
