@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kiven Alaric</h1>
-<h3 align="center">An entry level full stack dev passionate about the tech field and open to learn and work with others.</h3>
+<h1 align="center">Hey there 👋, welcome to my GitHub</h1>
 
 <div id="header" align="center">  
   <!--here's the hello text below it are the languages links-->
@@ -9,9 +8,7 @@
   </div>
   
   <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-      i'm Alaric
+    I am called Alaric
   </h1>
   <h4 align="center">A passionate entry level fullstack dev from Cameroon and a digital artist open to learning new things and learning from my mistakes. Open to team work and i'm a good team player not with the best communication skills but good at communication.</h4>
 
@@ -28,12 +25,12 @@
     <tbody>
       <tr valign="top">
         <td width="80px" align="center">
-          <span>Javascript</span><br><br><br>
+          <span>Javascript</span><br><br>
           <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png">
         </td>
          <td width="80px" align="center">
-          <span>Git</span><br><br><br>
-          <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="100" height="100"/>
+          <span>Git</span><br><br>
+          <img src="https://cdn.svgporn.com/logos/git-icon.svg" title="Git" **alt="Git"/>
         </td>
       </tr>
     </tbody>
@@ -44,16 +41,16 @@
     <tbody>
       <tr valign="top">
         <td width="80px" align="center">
-          <span>React</span><br><br><br>
+          <span>React</span><br><br>
           <img height="64px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg">
         </td>
         <td width="80px" align="center">
-          <span>HTML5</span><br><br><br>
+          <span>HTML5</span><br><br>
           <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
         </td>
         <td width="80px" align="center">
           <span><strong>CSS3</strong>
-          </span><br><br><br>
+          </span><br><br>
           <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
         </td>
       </tr>
@@ -65,11 +62,11 @@
     <tbody>
       <tr valign="top">
         <td width="80px" align="center">
-          <span>Node js</span><br><br><br>
+          <span>Node js</span><br><br>
           <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="100" height="100"/>
         </td>
         <td width="80px" align="center">
-          <span>MySQL</span><br><br><br>
+          <span>MySQL</span><br><br>
           <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="100" height="100"/>
         </td>
       </tr>
@@ -84,20 +81,20 @@
       <tbody>
         <tr valign="top">
           <td width="80px" align="center">
-            <span>React Native</span><br><br><br>
+            <span>React Native</span><br><br>
             <img height="64px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg">
           </td>
           <td width="80px" align="center">
-            <span>TypeScript</span><br><br><br>
+            <span>TypeScript</span><br><br>
             <img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon-round.svg">
           </td>
           <td width="80px" align="center">
             <span><strong>Tailwind</strong>
-            </span><br><br><br>
+            </span><br><br>
             <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
           </td>
           <td width="80px" align="center">
-            <span>NextJS</span><br><br><br>
+            <span>NextJS</span><br><br>
             <img height="64px" src="https://cdn.svgporn.com/logos/nextjs-icon.svg">
           </td>
         </tr>
@@ -111,37 +108,45 @@
     <table>      
       <tbody>
         <tr valign="top">
-          <td width="80px" align="center">
-            <span>Cash Register</span><br><br>
+          <div align="left">
+            <h3>Cash Register</h3><br>
             <a href="https://kivenalaric.github.io/cash-register/">
               <img height="64px" src="https://cdn-icons-png.flaticon.com/128/5113/5113045.png">
             </a>
-          </td>
-          <td width="80px" align="center">
-            <span>Currency Exchange App</span><br><br>
+            <p>The cash register project is a reallife example of a buy and sell situation like in every store where a customer comes to buy a good with cash at the cost of the goog and should in case the cash is more than the cost, the customer is supposed to get his balance or change. So in giving the customer change the seller tries as much as possible not to give out more of his small cash so he starts with the high bills while going to the smaller bills. That is just how this project works. A customer buys and gets his balance fom the high bills if theres any balance at all.</p>
+          </div>
+          <div align="left">
+            <h3>Currency Exchange App</h3><br>
             <a href="https://currency-exchange-git-feature-exchange-app-kivenalaric.vercel.app/">
               <img height="64px" src="https://cdn-icons-png.flaticon.com/128/2510/2510667.png">
             </a>
-          </td>
-          <td width="80px" align="center">
-            <span>Recipe app</span><br><br>
+            <p>Currency Exchange app is an application where users can create or deposit money into their wallets and there is a grand total of how much the user has in all his wallets in a default currency. For example a user has a $100USD wallet and a 500EUR wallet, it converts each ammount in varoius wallets to the default currency and gives a grand total in the default currency. A user is able to transfer money from 1 wallet to another. The conversions are done with rates from an api.</p>
+          </p>
+          </div>
+          <div align="left">
+            <h3>Recipe app</h3><br>
             <a href="https://deploy-preview-1--luxury-baklava-cbc2a5.netlify.app/">
               <img height="64px" src="https://cdn-icons-png.flaticon.com/128/1065/1065711.png">
             </a>
-          </td>
-          <td width="80px" align="center">
-            <span><strong>Simple Quiz App</strong>
-            </span><br><br>
+          </div>
+          <div align="left">
+            <h3>Simple Quiz App</h3><br><br>
             <a href="https://deploy-preview-1--glistening-tarsier-6b15bb.netlify.app/">
               <img height="64px" src="https://cdn-icons-png.flaticon.com/128/3261/3261308.png">
             </a>
-          </td>
-          <td width="80px" align="center">
-            <span>Tourist Site app</span><br><br>
+          </div>
+          <div align="left">
+            <h3>Tourist Site app</h3><br><br>
             <a href="https://deploy-preview-1--coruscating-crumble-ed00bd.netlify.app">
               <img height="64px" src="https://cdn-icons-png.flaticon.com/128/3284/3284668.png">
             </a>
-          </td>
+          </div>
+          <div align="left">
+            <span>Url Shortener</span><br><br>
+            <a href="https://shorty-rho.vercel.app">
+              <img height="64px" src="https://cdn-icons-png.flaticon.com/128/4906/4906292.png">
+            </a>
+          </div>
         </tr>
       </tbody>
     </table>
