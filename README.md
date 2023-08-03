@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kiven Alaric</h1>
 <h3 align="center">An entry level full stack dev passionate about the tech field and open to learn and work with others.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kivenalaric&label=Profile%20views&color=0e75b6&style=flat" alt="kivenalaric" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kivenalaric" alt="kivenalaric" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/alaric460" target="blank"><img src="https://img.shields.io/twitter/follow/alaric460?logo=twitter&style=for-the-badge" alt="alaric460" /></a> </p>
-
 <div id="header" align="center">  
   <!--here's the hello text below it are the languages links-->
   
@@ -20,6 +14,12 @@
       i'm Alaric
   </h1>
   <h4 align="center">A passionate entry level fullstack dev from Cameroon and a digital artist open to learning new things and learning from my mistakes. Open to team work and i'm a good team player not with the best communication skills but good at communication.</h4>
+
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=kivenalaric&label=Profile%20views&color=0e75b6&style=flat" alt="kivenalaric" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kivenalaric" alt="kivenalaric" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/alaric460" target="blank"><img src="https://img.shields.io/twitter/follow/alaric460?logo=twitter&style=for-the-badge" alt="alaric460" /></a> </p>
   
 <div align="left">
   <h3 align="left">Programming Skills:</h3>
@@ -113,27 +113,33 @@
         <tr valign="top">
           <td width="80px" align="center">
             <span>Cash Register</span><br><br>
-            <a src="https://kivenalaric.github.io/cash-register/">
+            <a href="https://kivenalaric.github.io/cash-register/">
               <img height="64px" src="https://cdn-icons-png.flaticon.com/128/5113/5113045.png">
             </a>
           </td>
           <td width="80px" align="center">
             <span>Currency Exchange App</span><br><br>
-            <a src="https://currency-exchange-git-feature-exchange-app-kivenalaric.vercel.app/">
+            <a href="https://currency-exchange-git-feature-exchange-app-kivenalaric.vercel.app/">
               <img height="64px" src="https://cdn-icons-png.flaticon.com/128/2510/2510667.png">
             </a>
           </td>
           <td width="80px" align="center">
             <span>Recipe app</span><br><br>
-            <a src="https://deploy-preview-1--luxury-baklava-cbc2a5.netlify.app/">
+            <a href="https://deploy-preview-1--luxury-baklava-cbc2a5.netlify.app/">
               <img height="64px" src="https://cdn-icons-png.flaticon.com/128/1065/1065711.png">
             </a>
           </td>
           <td width="80px" align="center">
             <span><strong>Simple Quiz App</strong>
             </span><br><br>
-            <a src="https://deploy-preview-1--glistening-tarsier-6b15bb.netlify.app/">
+            <a href="https://deploy-preview-1--glistening-tarsier-6b15bb.netlify.app/">
               <img height="64px" src="https://cdn-icons-png.flaticon.com/128/3261/3261308.png">
+            </a>
+          </td>
+          <td width="80px" align="center">
+            <span>Tourist Site app</span><br><br>
+            <a href="https://deploy-preview-1--coruscating-crumble-ed00bd.netlify.app">
+              <img height="64px" src="https://cdn-icons-png.flaticon.com/128/3284/3284668.png">
             </a>
           </td>
         </tr>
