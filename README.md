@@ -10,7 +10,7 @@
   <h1>
     I am called Alaric
   </h1>
-  <h4 align="center">A passionate entry level fullstack dev from Cameroon and a digital artist open to learning new things and learning from my mistakes. Open to team work and i'm a good team player not with the best communication skills but good at communication.</h4>
+  <h4 align="center">A passionate entry level fullstack dev from Cameroon and a digital artist open to learning new things, learning from my mistakes and striving not to make them again and working with others. Open to team work and getting my team skills and communication skills to the best i can and making myself valuable in the society. Open for Hiring.</h4>
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=kivenalaric&label=Profile%20views&color=0e75b6&style=flat" alt="kivenalaric" /> </p>
 
@@ -18,39 +18,39 @@
 
 <p align="left"> <a href="https://twitter.com/alaric460" target="blank"><img src="https://img.shields.io/twitter/follow/alaric460?logo=twitter&style=for-the-badge" alt="alaric460" /></a> </p>
   
-<div align="left">
+<div align="left" style="display:flex">
   <h3 align="left">Programming Skills:</h3>
 
-  <table>
-    <tbody>
-      <tr valign="top">
-        <td width="80px" align="center">
-          <span>Javascript</span><br><br>
+  <div>
+      <p valign="top">
+        <p width="80px" align="left">
           <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png">
-        </td>
-         <td width="80px" align="center">
-          <span>Git</span><br><br>
-          <img src="https://cdn.svgporn.com/logos/git-icon.svg" title="Git" **alt="Git"/>
-        </td>
-      </tr>
-    </tbody>
-  </table>
+          <br>
+          <span style="align: center">Javascript</span>
+        </p>
+         <p width="80px" align="left">
+          <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg" title="Git" **alt="Git"/>
+           <br>
+          <span align="center">Git</span>
+        </p>
+      </p>
+  </div>
   <h3 align="left">Frontend Skills:</h3>
 
   <table>
     <tbody>
       <tr valign="top">
         <td width="80px" align="center">
-          <span>React</span><br><br>
+          <span>React</span><br>
           <img height="64px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg">
         </td>
         <td width="80px" align="center">
-          <span>HTML5</span><br><br>
+          <span>HTML5</span><br>
           <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
         </td>
         <td width="80px" align="center">
           <span><strong>CSS3</strong>
-          </span><br><br>
+          </span><br>
           <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
         </td>
       </tr>
@@ -62,11 +62,11 @@
     <tbody>
       <tr valign="top">
         <td width="80px" align="center">
-          <span>Node js</span><br><br>
-          <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="100" height="100"/>
+          <span>Node js</span><br>
+          <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" title="NodeJS" alt="NodeJS" width="100" height="100"/>
         </td>
         <td width="80px" align="center">
-          <span>MySQL</span><br><br>
+          <span>MySQL</span><br>
           <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="100" height="100"/>
         </td>
       </tr>
@@ -81,20 +81,20 @@
       <tbody>
         <tr valign="top">
           <td width="80px" align="center">
-            <span>React Native</span><br><br>
+            <span>React Native</span><br>
             <img height="64px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg">
           </td>
           <td width="80px" align="center">
-            <span>TypeScript</span><br><br>
+            <span>TypeScript</span><br>
             <img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon-round.svg">
           </td>
           <td width="80px" align="center">
             <span><strong>Tailwind</strong>
-            </span><br><br>
+            </span><br>
             <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
           </td>
           <td width="80px" align="center">
-            <span>NextJS</span><br><br>
+            <span>NextJS</span><br>
             <img height="64px" src="https://cdn.svgporn.com/logos/nextjs-icon.svg">
           </td>
         </tr>
@@ -113,14 +113,14 @@
             <a href="https://kivenalaric.github.io/cash-register/">
               <img height="64px" src="https://cdn-icons-png.flaticon.com/128/5113/5113045.png">
             </a>
-            <p>The cash register project is a reallife example of a buy and sell situation like in every store where a customer comes to buy a good with cash at the cost of the goog and should in case the cash is more than the cost, the customer is supposed to get his balance or change. So in giving the customer change the seller tries as much as possible not to give out more of his small cash so he starts with the high bills while going to the smaller bills. That is just how this project works. A customer buys and gets his balance fom the high bills if theres any balance at all.</p>
+            <p>The cash register project is a reallife example of a buy and sell situation like in every store where a customer comes to buy a good with cash at the cost of the goog and should in case the cash is more than the cost, the customer is supposed to get his balance or change. So in giving the customer change the seller tries as much as possible not to give out more of his small cash so he starts with the high bills while going to the smaller bills. That is just how this project works. A customer buys and gets his balance fom the high bills if theres any balance at all. This project was done using HTML, CSS and JAVASCRIPT.</p>
           </div>
           <div align="left">
             <h3>Currency Exchange App</h3><br>
             <a href="https://currency-exchange-git-feature-exchange-app-kivenalaric.vercel.app/">
               <img height="64px" src="https://cdn-icons-png.flaticon.com/128/2510/2510667.png">
             </a>
-            <p>Currency Exchange app is an application where users can create or deposit money into their wallets and there is a grand total of how much the user has in all his wallets in a default currency. For example a user has a $100USD wallet and a 500EUR wallet, it converts each ammount in varoius wallets to the default currency and gives a grand total in the default currency. A user is able to transfer money from 1 wallet to another. The conversions are done with rates from an api.</p>
+            <p>Currency Exchange app is an application where users can create or deposit money into their wallets and there is a grand total of how much the user has in all his wallets in a default currency. For example a user has a $100USD wallet and a 500EUR wallet, it converts each ammount in varoius wallets to the default currency and gives a grand total in the default currency. A user is able to transfer money from 1 wallet to another. The conversions are done with rates from an api. This project was done using ReactJs and Styled Components</p>
           </p>
           </div>
           <div align="left">
@@ -128,24 +128,28 @@
             <a href="https://deploy-preview-1--luxury-baklava-cbc2a5.netlify.app/">
               <img height="64px" src="https://cdn-icons-png.flaticon.com/128/1065/1065711.png">
             </a>
+            <p>This is a Recipe app where users are able to creat, read, edit and delete a recipe. This project was done with ReactJs.</p>
           </div>
           <div align="left">
             <h3>Simple Quiz App</h3><br><br>
             <a href="https://deploy-preview-1--glistening-tarsier-6b15bb.netlify.app/">
               <img height="64px" src="https://cdn-icons-png.flaticon.com/128/3261/3261308.png">
             </a>
+             <p>Simple Quiz App is a simple question and answer where a user begins the quiz and is given questions with 2 answers true or false where once the user wnaswer a question and moves to the next he cant change his answer for the previouse one and at the end he is given a total result of how many he passed and failed. This project was built using Reactjs.</p>
           </div>
           <div align="left">
             <h3>Tourist Site app</h3><br><br>
             <a href="https://deploy-preview-1--coruscating-crumble-ed00bd.netlify.app">
               <img height="64px" src="https://cdn-icons-png.flaticon.com/128/3284/3284668.png">
             </a>
+            <p>This is a simple UI design of a tourist site with various oages like, gallery, contact and other pages.This project was done with ReactJs.</p>
           </div>
           <div align="left">
             <span>Url Shortener</span><br><br>
             <a href="https://shorty-rho.vercel.app">
               <img height="64px" src="https://cdn-icons-png.flaticon.com/128/4906/4906292.png">
             </a>
+            <p>Shorty(url shortener), is a full stack project where i was team lead. This application is an application where users can visit and shorten their urls(links), so that they can easily be shared and remembered due to their short lenght. Users are not obligated to sign up but users can sign up, sign in and logout. Registered users have more priorities than unregistered users.This Project was done with ReactJs, Express and MYSQL</p>
           </div>
         </tr>
       </tbody>
