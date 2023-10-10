@@ -123,27 +123,6 @@
           </p>
           </div>
           <div align="left">
-            <h3>Recipe app</h3><br>
-            <a href="https://deploy-preview-1--luxury-baklava-cbc2a5.netlify.app/">
-              <img height="64px" src="https://cdn-icons-png.flaticon.com/128/1065/1065711.png">
-            </a>
-            <p>This is a Recipe app where users are able to creat, read, edit and delete a recipe. This project was done with ReactJs.</p>
-          </div>
-          <div align="left">
-            <h3>Simple Quiz App</h3><br><br>
-            <a href="https://deploy-preview-1--glistening-tarsier-6b15bb.netlify.app/">
-              <img height="64px" src="https://cdn-icons-png.flaticon.com/128/3261/3261308.png">
-            </a>
-             <p>Simple Quiz App is a simple question and answer where a user begins the quiz and is given questions with 2 answers true or false where once the user wnaswer a question and moves to the next he cant change his answer for the previouse one and at the end he is given a total result of how many he passed and failed. This project was built using Reactjs.</p>
-          </div>
-          <div align="left">
-            <h3>Tourist Site app</h3><br><br>
-            <a href="https://deploy-preview-1--coruscating-crumble-ed00bd.netlify.app">
-              <img height="64px" src="https://cdn-icons-png.flaticon.com/128/3284/3284668.png">
-            </a>
-            <p>This is a simple UI design of a tourist site with various oages like, gallery, contact and other pages.This project was done with ReactJs.</p>
-          </div>
-          <div align="left">
             <span>Url Shortener</span><br><br>
             <a href="https://shorty-rho.vercel.app">
               <img height="64px" src="https://cdn-icons-png.flaticon.com/128/4906/4906292.png">
@@ -185,14 +164,6 @@
  <div align="left">
   
 <!--  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kivenalaric&theme=dark&background=000000)](https://git.io/streak-stats) -->
-  
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/alaric460" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alaric460" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kiven alaric" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kiven alaric" height="30" width="40" /></a>
-<a href="https://instagram.com/el.mozaro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="el.mozaro" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
