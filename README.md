@@ -8,7 +8,7 @@
   </div>
   
   <h1>
-    I am called Alaric
+    I am called Alaric.
   </h1>
   <h4 align="center">A passionate entry level fullstack dev from Cameroon and a digital artist open to learning new things, learning from my mistakes and striving not to make them again and working with others. Open to team work and getting my team skills and communication skills to the best i can and making myself valuable in the society. Open for Hiring.</h4>
 
