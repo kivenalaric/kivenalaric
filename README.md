@@ -108,13 +108,6 @@
       <tbody>
         <tr valign="top">
           <div align="left">
-            <h3>Cash Register</h3><br>
-            <a href="https://kivenalaric.github.io/cash-register/">
-              <img height="64px" src="https://cdn-icons-png.flaticon.com/128/5113/5113045.png">
-            </a>
-            <p>The cash register project is a reallife example of a buy and sell situation like in every store where a customer comes to buy a good with cash at the cost of the goog and should in case the cash is more than the cost, the customer is supposed to get his balance or change. So in giving the customer change the seller tries as much as possible not to give out more of his small cash so he starts with the high bills while going to the smaller bills. That is just how this project works. A customer buys and gets his balance fom the high bills if theres any balance at all. This project was done using HTML, CSS and JAVASCRIPT.</p>
-          </div>
-          <div align="left">
             <h3>Currency Exchange App</h3><br>
             <a href="https://currency-exchange-git-feature-exchange-app-kivenalaric.vercel.app/">
               <img height="64px" src="https://cdn-icons-png.flaticon.com/128/2510/2510667.png">
