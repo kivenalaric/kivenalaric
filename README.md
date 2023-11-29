@@ -127,17 +127,12 @@
     </table>
   </div>
   
-  <h1> :fire: :writing_hand: Will like to learn : </h1>
+  <h1> :fire: :writing_hand: Currently Learning : </h1>
   
   <div align="left">
     <table>
       <tbody>
         <tr valign="top">
-          <td width="80px" align="center">
-            <span><strong>Python </strong>
-            </span><br><br><br>
-            <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-          </td>
           <td width="80px" align="center">
             <span><strong>Laravel </strong>
             </span><br><br><br>
